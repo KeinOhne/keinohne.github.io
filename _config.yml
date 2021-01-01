@@ -199,6 +199,10 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: true
+  # coderay
+  coderay:
+    coderay_line_numbers: inline
+  
 
 
 # Sass/SCSS
