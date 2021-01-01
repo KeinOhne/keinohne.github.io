@@ -97,8 +97,8 @@ author:
   name             : "author_name_test"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "author_bio_test"
-  location         : "author_location_test"
-  email            : "author_email_test"
+  location         : 
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
