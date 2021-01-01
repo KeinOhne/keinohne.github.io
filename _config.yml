@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KeinOhne's blog"
+title                    : "site_title_test"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KeinOhne"
-description              : "KeinOhne's blog"
+subtitle                 : "site_subtitle_test" # site tagline that appears below site title in masthead
+name                     : "site_name_test"
+description              : "site_description_test"
 url                      : "https://keinohne.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kein Ohne"
+  name             : "author_name_test"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  location         : 
-  email            :
+  bio              : "author_bio_test"
+  location         : "author_location_test"
+  email            : "author_email_test"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
