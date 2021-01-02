@@ -293,4 +293,12 @@ defaults:
       toc: true
       toc_sticky: true
       toc_label: "Table of Contents"
-
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+        
+        
