@@ -6,3 +6,12 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+# fonts
+$serif      : serif;
+$sans-serif : sans-serif;
+$monospace  : "IBM Plex Mono", monospace;
+
+$global-font-family   : $monospace;
+$header-font-family   : $monospace;
+$caption-font-family  : $monospace;
