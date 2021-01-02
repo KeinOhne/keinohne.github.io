@@ -5,3 +5,12 @@ main:
     url: https://keinohne.github.io/categories/test/
   - title: "try"
     url: https://keinohne.github.io/categories/try/
+
+docs:
+  - title: Category
+  childred:
+    - title: "test"
+      url: /categories/test/
+    - title: "try"
+      url: /categories/try/
+
