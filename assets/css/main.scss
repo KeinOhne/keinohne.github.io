@@ -3,11 +3,16 @@
 ---
 
 $body-color: black;
-$background-color: gray;
-$text-color: green;
+$background-color: black;
+$text-color: white;
 $link-color: yellow;
-$masthead-link-color: red;
+$masthead-link-color: white;
 
+$serif : Georgia, serif;
+$monospace : "IBM Plex Mono", monospace;
+
+$global-font-family : $monospace;
+$header-font-family : $serif;
 
 // http://chriskempson.com/projects/base16/
 $base00: #1d1f21; // base00 - Default Background
