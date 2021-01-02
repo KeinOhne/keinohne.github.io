@@ -2,7 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$body-color: black;
+$background-color: gray;
+$text-color: green;
 $link-color: yellow;
+$masthead-link-color: red;
+
 
 // http://chriskempson.com/projects/base16/
 $base00: #1d1f21; // base00 - Default Background
