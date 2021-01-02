@@ -13,9 +13,7 @@ $monospace : "IBM Plex Mono", monospace;
 
 $global-font-family : $monospace;
 $header-font-family : $monospace;
-$masthead-font-family : $monospace;
-$head-font-family : $monospace;
-$body-font-family : $monospace;
+$caption-font-family : $monospace;
 
 // http://chriskempson.com/projects/base16/
 $base00: #1d1f21; // base00 - Default Background
@@ -39,3 +37,11 @@ $base0f: #a3685a; // Deprecated, Opening/Closing Embedded Language Tags, e.g. <?
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.highlight{
+  font-family: $monospace;
+}
+
+.language-plaintext{
+  font-family: $monospace;
+}
