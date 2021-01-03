@@ -299,4 +299,5 @@ defaults:
       type: pages
     values:
       author_profile: true
+      classes: wide
 
