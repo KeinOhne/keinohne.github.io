@@ -12,9 +12,11 @@ $sans-serif : "IBM Plex Mono", sans-serif;
 $serif : "IBM Plex Mono", serif;
 $monospace : "IBM Plex Mono", monospace;
 
+/*
 $global-font-family : $monospace;
 $header-font-family : $monospace;
 $caption-font-family : $monospace;
+*/
 
 // http://chriskempson.com/projects/base16/
 $base00: #1d1f21; // base00 - Default Background
@@ -39,7 +41,6 @@ $base0f: #a3685a; // base0F - Deprecated, Opening/Closing Embedded Language Tags
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// https://evenharder.github.io/blog/jekyll-change-fonts/
 /*
 .highlight{
   font-family: $monospace;
