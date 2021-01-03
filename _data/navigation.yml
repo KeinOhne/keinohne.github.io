@@ -1,3 +1,11 @@
 main:
   - title: "Catogory"
     url: https://keinohne.github.io/categories/
+
+docs:
+  - title: Category
+    children:
+      - title: "test:
+        url: /categories/test/
+      - title: "try"
+        url: /categories/try/
