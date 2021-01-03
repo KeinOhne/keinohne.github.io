@@ -5,7 +5,7 @@ main:
 docs:
   - title: Category
     children:
-      - title: "test:
-        url: /docs/test/
+      - title: "test"
+        url: /categories/test/
       - title: "try"
-        url: /docs/try/
+        url: /categories/try/
