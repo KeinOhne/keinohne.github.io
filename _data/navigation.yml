@@ -6,6 +6,6 @@ docs:
   - title: Category
     children:
       - title: "test:
-        permalink: /categories/test/
+        url: /docs/test/
       - title: "try"
-        permalink: /categories/try/
+        url: /docs/try/
