@@ -293,7 +293,8 @@ defaults:
       toc: true
       toc_sticky: true
       toc_label: "Table of Contents"
-      classes: wide
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: ""
@@ -301,4 +302,6 @@ defaults:
     values:
       author_profile: true
       classes: wide
+      sidebar:
+        nav: "docs"
 
