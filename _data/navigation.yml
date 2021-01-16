@@ -7,3 +7,7 @@ docs:
     children:
       - title: "try"
         url: /categories/try/
+  - title: miscellaneous
+    children:
+      - title: "miscellaneous"
+        url: /categories/miscellaneous/
