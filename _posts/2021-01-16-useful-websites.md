@@ -6,5 +6,5 @@ categories: miscellaneous
 
 # code scripters
 
-- [Color Scriptr](https://colorscripter.com/)
+- [Color Scripter](https://colorscripter.com/)
 - [GitGub Gist](https://gist.github.com/)
