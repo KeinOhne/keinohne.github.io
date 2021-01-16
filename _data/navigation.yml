@@ -1,12 +1,8 @@
 docs:
-  - title: Category_test
+  - title: test
     children:
       - title: "test"
         url: /categories/test/
-  - title: Category_try
-    children:
-      - title: "try"
-        url: /categories/try/
   - title: miscellaneous
     children:
       - title: "miscellaneous"
