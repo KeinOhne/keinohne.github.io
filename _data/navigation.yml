@@ -1,8 +1,4 @@
 docs:
-  - title: test
-    children:
-      - title: "test"
-        url: /categories/test/
   - title: miscellaneous
     children:
       - title: "miscellaneous"
